@@ -236,7 +236,7 @@ function App() {
           <div className="about-copy">
             <p className="eyebrow">About Ivan</p>
             <h2>
-              Years of solving technology problems — without making people
+              Years of solving technology problems - without making people
               feel like they need a computer science degree.
             </h2>
             <p>
